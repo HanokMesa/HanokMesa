@@ -1,7 +1,7 @@
 Hi! My name is Hanok Mesa 😄
 ========================================================================================================================================
 
-🌍  I am a React Js Developer based in Andhra Pradesh, India.
+🌍  I am a ReactJs Developer based in Andhra Pradesh, India.
 <br/>
 
 ### Skills
